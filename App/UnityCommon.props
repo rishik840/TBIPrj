@@ -1,0 +1,9 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <UnityWSASolutionName>HololensPrj</UnityWSASolutionName>
+        <UnityWSASolutionDir>C:\Users\Rishabh\Desktop\TBIPrj\App\</UnityWSASolutionDir>
+        <UnityProjectDir>C:\Users\Rishabh\Desktop\TBIPrj\</UnityProjectDir>
+        <UnityWSAPlayerDir>C:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport\</UnityWSAPlayerDir>
+        <UnityWSAToolsDir>$(UnityWSASolutionDir)Unity\Tools\</UnityWSAToolsDir>
+    </PropertyGroup>
+</Project>
